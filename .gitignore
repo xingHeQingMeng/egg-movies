@@ -13,7 +13,6 @@ logs/
 !.autod.conf.js
 
 app/**/*.js
-app/mysqlConfig/constant.ts
 test/**/*.js
 config/**/*.js
 app/**/*.map
